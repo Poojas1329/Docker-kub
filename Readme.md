@@ -109,8 +109,9 @@ Deploy your application using the Kubernetes manifests:
 
 ```bash
 kubectl apply -f k8s-deployment.yaml
-change in deployment.yml->deployment.yaml
+
 ```
+change in deployment.yml->deployment.yaml
 
 Verify the deployment:
 
