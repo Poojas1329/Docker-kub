@@ -1,0 +1,16 @@
+{
+  "name": "practical-8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This practical demonstrates how to deploy a Node.js web application using Docker and Kubernetes on a Windows machine. The application is containerized with Docker and deployed to a local Kubernetes cluster using Minikube. It assumes you have already written the necessary code (Node.js application, Dockerfile, and Kubernetes manifests) as part of Practical 8. This guide focuses on setting up the environment, building, deploying, and testing the application, using `winget` to install required tools.",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^24.0.1"
+  }
+}
